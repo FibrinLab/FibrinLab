@@ -1,10 +1,1 @@
-- 👋 Hi, We are @FibrinLab Greetings, Earthling.
-We’re a team of innovators, researchers and nerds that help companies design better products, websites and services by using user data.
-- 👀 We are currently interested in Artificial Intelligence, Blockchain and Software Development.
-- 💞️ Currently looking to collaborate on projects relating to the above fields.
-- 📫 How to reach us => fibrinlab@gmail.com
-
-<!---
-FibrinLab/FibrinLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software architect, code ninja, and tech polymath. With a deep passion for all things programming, I'm always seeking to push the boundaries of what's possible with the latest technologies and techniques. From cutting-edge AI and machine learning algorithms to elegant and efficient software design, I love nothing more than sinking my teeth into a complex technical challenge. When not knee-deep in code, you can find me tinkering with hardware, exploring the latest open-source projects, or diving into the latest research papers. Let's collaborate and craft the future of technology together.
